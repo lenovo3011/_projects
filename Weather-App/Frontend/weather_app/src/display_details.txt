@@ -1,0 +1,10 @@
+location.name
+location.region
+location.country
+location.localtime
+
+current.last_updated
+temp_c
+
+current.condition.text
+current.condition.icon

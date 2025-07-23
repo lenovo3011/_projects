@@ -1,0 +1,166 @@
+
+.main {
+  text-align: center;
+  
+}
+
+
+.main h1 {
+  color: rgb(255, 25, 0);
+  text-shadow: 4px 4px 10px rgba(27, 26, 26, 0.5);
+  font-weight: bolder;
+  font-size: 90px;
+  padding: 0;
+  margin: 0;
+
+}
+
+.main label {
+  font-size: 25px;
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.main input {
+  height: 30px;
+  width: 300px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 20px;
+  font-size: large;
+  text-indent: 10px;
+}
+ img {
+  max-height: 30px;
+  max-width: 30px;
+  margin-bottom: -7px;
+}
+
+.main button {
+  height: 45px;
+  width: fit-content;
+  padding: 10px;
+  font-size: 20px;
+  background-color: blueviolet;
+  font-weight: bold;
+  color: antiquewhite;
+  border-radius: 15px;
+  box-shadow: 2px 2px 7px rgb(106, 106, 106);
+  cursor: pointer;
+  ;
+}
+
+.main button:active {
+  transform: scale(0.9);
+}
+
+.data {
+  width: 40%;
+  box-shadow: 4px 4px 10px rgba(27, 26, 26, 0.5);
+  border: 1px solid slateblue;
+  height: 40vh;
+  /* margin: auto; */
+  left: 29%;
+  position: relative;
+  text-align: center;
+  margin-top: 20px;
+  background-color:rgb(167, 216, 236);
+
+}
+
+
+
+.text  {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  width: max-content;
+  padding-left: 10px;
+  padding-right:10px ;
+  color: rgb(14, 13, 14);
+  margin: auto;
+
+}
+
+.time p {
+   position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  font-size: 10px;
+  margin-inline-end: 5px;
+  
+}
+
+.time {
+  position: relative;
+}
+
+.temp p {
+  font-size: 50px;
+    margin: 0;
+  padding:0 ;
+  position: relative;
+  
+}
+
+.temp sup {
+  font-size: 15px;
+  position: absolute;
+  margin: 0;
+  padding:0 ;
+  top: 0;
+  
+
+}
+
+.l {
+  width: 50%;
+}
+
+
+
+.co {
+  font-size: xx-small;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  margin: auto;
+}
+
+.ai {
+  width: auto;
+  border: 1px solid red;
+  color: rgb(26, 26, 204);
+  background-color: rgb(187, 233, 4);
+  font-size: medium;
+  font-weight: bolder;
+  padding: 5px;
+  border-radius: 15px;
+  margin-top: 10%;
+  cursor: pointer;
+
+}
+.ai:hover {
+ 
+   background-color: rgb(160, 198, 9);
+   color: blue;
+}
+.ai:active {
+  transform: scale(0.98);
+}
+.aipara {
+  background-color:rgb(255, 151, 255);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 10px rgba(27, 26, 26, 0.5);
+  border: 2px solid red;
+  color: black;
+
+}
+.lottie {
+  height:100px;
+  padding: 0;
+  margin: auto; 
+  width: 300px;
+}

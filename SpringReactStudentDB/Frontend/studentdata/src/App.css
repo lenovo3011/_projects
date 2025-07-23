@@ -1,0 +1,24 @@
+
+
+.card-design 
+  {
+  border-radius: 15px;
+  border: 2px solid black;
+  background-color: rgb(246, 169, 234);
+  position: inherit;
+  
+  
+
+}
+
+.nav {
+  background-color:rgb(249, 3, 159);
+  position: sticky;
+  border-radius: 15px;
+  width: 100%;
+  border: 3px solid dodgerblue ;
+  top: 0 ;
+  text-indent: 30px;
+  font-weight: 500;
+  
+}
